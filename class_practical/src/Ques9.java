@@ -2,9 +2,8 @@
 
 import java.net.NetworkInterface;
 import java.net.SocketException;
-import java.sql.SQLOutput;
 
-public class Ques7 {
+public class Ques9 {
     public static void main(String[]args){
         try{
             //Factory Method
