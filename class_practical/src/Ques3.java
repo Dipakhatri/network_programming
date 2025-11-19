@@ -7,7 +7,6 @@ public class Ques3 {
             InetAddress address = InetAddress.getByName(ipAddress);
 
             System.out.println("IP Address:" + address.getHostAddress());
-
             System.out.println("Is Loopback Address?" + address.isLoopbackAddress());
             System.out.println("Is Any Local Address?" + address.isAnyLocalAddress());
             System.out.println("Is Link Local Address?" + address.isLinkLocalAddress());
